@@ -1,5 +1,9 @@
 # Instructions for Claude
 
+## Standing rule (always follow)
+
+Always give me content in the chat as regular formatted text I can select and paste into a document. Never use code blocks or the side panel viewer. Also save each piece of content as a .md file and push it to the project's GitHub repo.
+
 ## Delivering content
 
 - Give every piece of content (handouts, credit lines, drafts) in the chat as regular formatted text that the user can select, copy, and paste into a document with formatting intact.
